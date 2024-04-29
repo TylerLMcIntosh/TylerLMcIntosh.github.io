@@ -1,10 +1,9 @@
 ---
-layout: post
+layout: page
 title:  Research
 permalink: /research/
-cover: true
 ---
 
-# TESTING COVER
+# IN DEVELOPMENT
 
 <!--author-->

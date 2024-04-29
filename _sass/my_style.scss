@@ -1,0 +1,28 @@
+// You can add CSS rules here that will be inlucded in Hydejack's CSS file
+
+
+//darken the menu drawer icon
+.icon-menu:before {
+    color: rgb(150,150,150);
+}
+
+
+
+//sidebar logo size
+.sidebar-about .avatar {
+    width: 10rem;
+    height: 10rem;
+//     border-radius: 100%;
+//     overflow: hidden;
+}
+
+// main text font size
+p {
+    font-size: 1.05rem;
+    line-height: 2.1rem;
+}
+
+// sidebar menu font size
+.sidebar-nav-item {
+    font-size: 1rem;
+}

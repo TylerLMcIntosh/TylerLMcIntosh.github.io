@@ -5,7 +5,7 @@ description: Personal website of Tyler L. McIntosh
 lang: en
 
 logo: /assets/images/tlm_headshot.jpg
-accent_image: /assets/images/forest_banner_NASA_Imagery.jpg
+accent_image: /assets/images/banner2.png
 tagline: Scientist | Creative
 
 remote_theme: hydecorp/hydejack@v9.1.6

@@ -3,11 +3,11 @@ remote_theme: hydecorp/hydejack@v9.1.6
 
 menu:
   - title: About
-    url:   /about/
+    url: /about/
   - title: Research
-    url:   /research/
+    url: /research/
   - title: Creative work
-    url:   /creative/
+    url: /creative/
   - title: CV
-    url:   /cv/
+    url: /cv/
 

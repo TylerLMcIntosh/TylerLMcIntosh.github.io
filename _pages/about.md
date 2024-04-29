@@ -4,13 +4,11 @@ title:  About
 permalink: /about/
 ---
 
-# About Me
-
 I am Tyler McIntosh, a researcher and creative based in Colorado. My work focuses on human-environmental systems interactions.
 
 ## Background
 
-I received my B.S. and M.S. degrees from Stanford University.
+I received my B.S. and M.S. degrees from Stanford University. I grew up in Jackson, Wyoming.
 
 ## Contact
 

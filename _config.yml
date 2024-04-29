@@ -15,3 +15,6 @@ collections:
   pages:
     output: true
     permalink: /:path/
+
+accent_image: /assets/images/tlm_headshot.jpg
+accent_color: rgb(79,177,186)

@@ -11,3 +11,7 @@ menu:
   - title: CV
     url: /cv/
 
+collections:
+  pages:
+    output: true
+    permalink: /:path/
